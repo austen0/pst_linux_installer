@@ -1,0 +1,17 @@
+WeiDU v 24000 Log
+
+ weidu --log setup-setup-ghostdogs-pst-ui.debug setup-ghostdogs-pst-ui.tp2
+
+ERROR: Unable to find CHITIN.KEY in:
+	.
+	.
+	..
+	../..
+	../../..
+	/
+
+FATAL ERROR: Failure("Unable to find CHITIN.KEY: run me in an Infinity Engine game directory")
+
+		WeiDU Timings
+stuff not covered elsewhere      0.000
+TOTAL                            0.000

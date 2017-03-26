@@ -1,0 +1,4 @@
+COPY ~ghostdogs-pst-ui/Main_files~ ~override~
+COPY ~ghostdogs-pst-ui/Main_files2~ ~override~
+COPY ~ghostdogs-pst-ui/1024_files/1024_MOS~ ~override~
+COPY ~ghostdogs-pst-ui/1024_files/1024_CHU~ ~override~
