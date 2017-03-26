@@ -6,7 +6,7 @@ the following mods:
 
 * [The Bigg's Widescreen Mod (v3.07)][bws]
 * [GhostDog's PST:UI mod (v2.2)][gdui]
-* [Qwinn's PS:T Unfinished Business (v4.12)][ub]
+* [Qwinn's PS:T Unfinished Business (v4.12)][qub]
 
 
 [bws]: http://www.gibberlings3.net/widescreen/
